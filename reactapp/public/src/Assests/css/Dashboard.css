@@ -1,0 +1,25 @@
+/* Add this to your OwnerDashboard.css or a separate CSS file */
+
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .page-container {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .content-wrap {
+    flex: 1;
+  }
+  
+  .user-dashboard {
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+  }
+  
+  /* Adjust other styles as needed */
+  
